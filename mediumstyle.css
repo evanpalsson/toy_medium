@@ -1,0 +1,163 @@
+* {
+	position: relative;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+a {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	cursor: auto;
+}
+
+#header {
+
+}
+
+.topBox {
+	height: 65px;
+	display: flex;
+	justify-content: space-between;
+	font-family: "jaf-bernino-sans","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+}
+
+.left {
+	font-size: 30px;
+	font-weight: bolder;
+	padding: 15px;
+	margin-left: 5px;
+}
+
+.middle {
+	text-align: center;
+	padding: 15px;
+	width: 300px;
+	overflow: hidden;
+	margin-left: 10%;
+}
+
+.middle .top {
+	font-size: 11px;
+	padding: 1px;
+	opacity: .3;
+	letter-spacing: 2px;
+}
+
+.middle .bottom {
+	font-size: 13px;
+	font-weight: bold;
+	padding: 2.5px;
+	letter-spacing: 3px;
+	opacity: .6;
+}
+
+.right {
+	width: 200px;
+}
+
+.buttons {
+	width: 200px;
+	padding: 10px;
+	border-spacing: 0px, 100px;
+}
+
+.search {
+    width: 35px;
+    height: 35px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50%;
+    border-color: rgba(220, 220, 220, 1);
+    box-sizing: border-box;
+    padding-right: 20px;
+}
+
+.fa {
+	margin: 60%;
+}
+
+.signIn {
+	height: 35px;
+	width: 150px;
+	font-size: 14px;
+	color: rgba(166, 212, 173, 1);
+    border-color: rgba(166, 212, 173, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.pic {
+	width: 100%;
+	height: auto;
+}
+
+#bodyText {
+	margin-left: 20%;
+	margin-right: 15%;
+}
+
+.mainText p {
+	width: 675px;
+	font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
+	font-size: 19.8px;
+	line-height: 35px;
+}
+
+.mainTitle {
+	font-family: sans-serif;
+	font-size: 54px;
+	font-weight: bolder;
+	padding-top: 8%;
+}
+
+.quote {
+	font-style: italic;
+	border-left: 3px solid black;
+	margin-left: -23px;
+	padding-left: 20px;
+}
+
+.subTitle {
+	font: 35px Arial bold;
+}
+
+.box {
+	height: 100%;
+	width: 675px;
+	background: rgba(243, 243, 243, 1);
+	padding: 15px;
+	line-height: 10px;
+}
+
+.box p {
+	line-height: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
